@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MT4API", "MT4API\MT4API.csproj", "{620EA031-E250-4E85-947A-1F32C8772952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestMT4API", "UnitTestMT4API\UnitTestMT4API.csproj", "{6048388C-E439-40B9-9A2A-2B61AE43D67C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620EA031-E250-4E85-947A-1F32C8772952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620EA031-E250-4E85-947A-1F32C8772952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620EA031-E250-4E85-947A-1F32C8772952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620EA031-E250-4E85-947A-1F32C8772952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6048388C-E439-40B9-9A2A-2B61AE43D67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6048388C-E439-40B9-9A2A-2B61AE43D67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6048388C-E439-40B9-9A2A-2B61AE43D67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6048388C-E439-40B9-9A2A-2B61AE43D67C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1393E26B-238D-4F47-85EA-EC89D724A99B}
+	EndGlobalSection
+EndGlobal
